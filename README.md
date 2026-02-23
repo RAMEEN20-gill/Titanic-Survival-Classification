@@ -66,9 +66,3 @@ The accuracy score shows how correctly the model predicts survival.
 The Logistic Regression model successfully predicts survival with good accuracy.
 
 
-## Author
-Rameen Gill  
-Computer Science Student | Aspiring Data Scientist
-
-
-1. Install require
