@@ -32,7 +32,7 @@ Target Variable:
 - 0 = Did not survive
 - 1 = Survived
 
-## 🔍 Project Workflow
+## Project Workflow
 
 1. Importing libraries  
 2. Data loading  
@@ -71,4 +71,4 @@ Rameen Gill
 Computer Science Student | Aspiring Data Scientist
 
 
-1. Install required libraries:
+1. Install require
